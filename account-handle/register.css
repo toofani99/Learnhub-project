@@ -18,8 +18,8 @@ body{
 .card{
     border: none;
     border-radius: 20px;
-    height: 600px;
-    width: 450px;
+    height: 500px;
+    width: 350px;
     display: flex;
     flex-direction: column;
     padding-top: 75px;
